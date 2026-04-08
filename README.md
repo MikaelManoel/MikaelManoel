@@ -1,8 +1,7 @@
 ### Olá me chamo Mikael
 
 <div align="center">
-  <a href="https://github.com/MikaelManoel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelManoel&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
   
   ##
@@ -23,6 +22,6 @@
     
   </div>
 
-- 🌱 estou aprendendo Python!
+- 🌱
 
 
