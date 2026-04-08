@@ -1,6 +1,7 @@
 ### Olá me chamo Mikael
 
 <div align="center">
+<h2>Voltando a estudar programação, focado em trabalhar como desenvolvedor front-end</h2>
 
 </div>
   
